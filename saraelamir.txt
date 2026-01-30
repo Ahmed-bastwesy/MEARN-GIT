@@ -1,6 +1,3 @@
-Name: Riham Mohamed
-Email: rihammohamedm991@gmail.com
-Track: Full Stack
 Email: saraaelamir@gmail.com
 Name: Sara Elamir
 Track: React Frontend developer
