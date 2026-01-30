@@ -1,3 +1,2 @@
-Name: Riham Mohamed
-Email: rihammohamedm991@gmail.com
-Track: Full Stack
+Mayar Emad
+Mearn stack
